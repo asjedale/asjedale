@@ -58,10 +58,8 @@
  <br />
  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjidale&" alt="asjidale" width = 70% />
 
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asjidale&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h2 align="center">Have a project idea or need developer/DevOps? <a href="https://wa.me/923049043909" target="_blank"> Hire Me! </a></h2>
+<h2 align="center">Want developer or DevOps Engineer? <a href="https://wa.me/923049043909" target="_blank"> Hire Me! </a></h2>
